@@ -1,0 +1,10 @@
+# Model weights — stored on HuggingFace, not GitHub
+quantization-4bits/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
